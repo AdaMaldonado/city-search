@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# zip-search project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project was fully created together outside of GitHub with everyone's contribution.
+
+**Teammates: Gamal Abdu, Idris Adeboyejo, Wong Huang Liu, Ada Maldonado**
 
 ## Available Scripts
 
