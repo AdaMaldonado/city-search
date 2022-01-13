@@ -1,4 +1,4 @@
-# zip-search project
+# city-search project
 
 ## Project was fully created together outside of GitHub with everyone's contribution.
 
